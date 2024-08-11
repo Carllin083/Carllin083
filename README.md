@@ -15,7 +15,7 @@ target="_blank"></a>
 <img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style = "border-radius: 30px"></a>
  </div>
 
-<h2 align="center">PROGRAMMING LANGUAGES 👨🏻‍💻</h2>
+<h2 align="center">MAIN SKILLS 👨🏻‍💻</h2>
 
 <div align="center">
 <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style = "border-radius: 30px"> <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style = "border-radius: 30px"> 
