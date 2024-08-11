@@ -7,8 +7,8 @@
 
 </div>
 <div align="center"> 
-<a href="https://instagram.com/_Carlos.mglhs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-style="border-radius: 30px"></a>
+<a href="https://instagram.com/_Carlos.mglhs"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+style="border-radius: 30px" style= " target=_blank"></a>
 <a href = "mailto:cmp.1a.carloseduardobr19@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
 style="border-radius: 30px"
 target="_blank"></a>
