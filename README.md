@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=150&width=200&section=header"/>
 
 <h1 align = "center">Hello! Me chamo Carlos Magalhães 👨🏻‍💻</h1>
 <div align = "center">
@@ -13,7 +13,7 @@ style="border-radius: 30px"></a>
 style="border-radius: 30px"
 target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlos-eduardo-06677927b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "">
+<a href = "https://t.me/Carllin083">
 <img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style = "border-radius: 30px"></a>
  </div>
 
