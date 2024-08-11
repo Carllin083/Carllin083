@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=150&section=header"/>
 
 <h1 align = "center">Hello! Me chamo Carlos Magalhães 👨🏻‍💻</h1>
 <div align = "center">
@@ -25,6 +25,7 @@ target="_blank"></a>
 <div align = "center ">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carllin083&layout=donut&theme=tokyonight)](https://github.com/Carllin083/github-readme-stats)
+
 </div>
 
 <h2>
@@ -34,4 +35,4 @@ DATA BASE 📊
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=150&section=footer"/>
