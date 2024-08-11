@@ -1,4 +1,6 @@
-<h1 align = "center">Hello! My name is Carlos Magalhães 👨🏻‍💻</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=150&section=header"/>
+
+<h1 align = "center">Hello! Me chamo Carlos Magalhães 👨🏻‍💻</h1>
 <div align = "center">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Carllin083&show_icons=true&theme=tokyonight)
@@ -15,14 +17,14 @@ target="_blank"></a>
 <img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style = "border-radius: 30px"></a>
  </div>
 
-<h2 align="center">MAIN SKILLS 👨🏻‍💻</h2>
+<h2 align="center">PROGRAMMING LANGUAGES 👨🏻‍💻</h2>
 
 <div align="center">
 <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style = "border-radius: 30px"> <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style = "border-radius: 30px"> 
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style = "border-radius: 30px"> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style = "border-radius: 30px"> 
 <div align = "center ">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carllin083&layout=donut)](https://github.com/Carllin083/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carllin083&layout=donut)](https://github.com/Carllin083/github-readme-stats)
 
 </div>
 
@@ -32,3 +34,5 @@ DATA BASE 📊
 
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=150&section=footer"/>
