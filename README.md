@@ -6,8 +6,8 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Carllin083&show_icons=true&theme=tokyonight)
 
 </div>
-<div align="center" target="blank"> 
-<a href="https://instagram.com/_Carlos.mglhs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+<div align="center" > 
+<a href="https://instagram.com/_Carlos.mglhs" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 style="border-radius: 30px"></a>
 <a href = "mailto:cmp.1a.carloseduardobr19@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
 style="border-radius: 30px"
