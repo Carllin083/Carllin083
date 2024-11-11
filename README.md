@@ -22,7 +22,8 @@ target="_blank"></a>
 <h2 align = "center" style = "border-bottom: none">MAIN SKILLS 👨🏻‍💻</h2>
 <div align="center">
 <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style = "border-radius: 30px"> <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style = "border-radius: 30px"> 
-<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style = "border-radius: 30px"> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style = "border-radius: 30px"> 
+<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style = "border-radius: 30px"> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style = "border-radius: 30px"
+style = "margin-bottom: 30px"> 
 <div align = "center " style = "margin-top:50">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carllin083&layout=donut&theme=tokyonight)](https://github.com/Carllin083/Carllin083)
