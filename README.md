@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Magalhães;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Magalhães;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Information+Systens;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Carllin083&show_icons=true&theme=tokyonight)
 
