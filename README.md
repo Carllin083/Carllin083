@@ -23,8 +23,7 @@ target="_blank"></a>
 <p align="center">
     <h1 align = "center">MY SKILLS 👨🏻‍💻</h1>
     <div align = "center">  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,&theme=light " style = "margin-left: 55px"/>
-    <img src="https://skillicons.dev/icons?i=css,nodejs,spring,git&theme=light " />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,spring,git&theme=light " />
     
   </a> </div>
 </p>
