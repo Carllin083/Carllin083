@@ -14,7 +14,7 @@ style="border-radius: 30px"></a>
 <a href = "mailto:cmp.1a.carloseduardobr19@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
 style="border-radius: 30px"
 target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-eduardo-06677927b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="www.linkedin.com/in/carlos-magalhães-06677927b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "https://t.me/Carllin083">
 <img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style = "border-radius: 30px"></a>
  </div>
