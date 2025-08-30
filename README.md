@@ -37,7 +37,7 @@ target="_blank"></a>
 
 <div style="margin-left: 55px">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light)]" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
   </a>
 </div>
 
