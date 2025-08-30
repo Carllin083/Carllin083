@@ -23,7 +23,7 @@ target="_blank"></a>
 <p align="center">
     <h1 align = "center">MY SKILLS 👨🏻‍💻</h1>
     <div align = "center">  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,spring,git&theme=light " />
+    <img src="https://skillicons.dev/icons?i=java,aws,py,js,html,css,nodejs,spring,git&theme=light " />
     
   </a> </div>
 </p>
@@ -37,7 +37,7 @@ target="_blank"></a>
 
 <div style="margin-left: 55px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres, &theme=light" />
+    <img src="[https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light), &theme=light" />
   </a>
 </div>
 
