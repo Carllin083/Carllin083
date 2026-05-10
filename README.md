@@ -1,46 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=150&width=200&section=header"/>
+# Olá, eu sou o Carlos Magalhães! 👋
 
-<div align = "center">
+Sou estudante de Sistemas de Informação na UNIFACISA e um desenvolvedor em treinamento contínuo para me tornar Engenheiro de Software Full-Stack. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Magalhães;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Information+Systens;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Estive estudando intensamente nos últimos dias e, ao praticar na construção de projetos reais, venho consolidando minha visão arquitetural (Clean Architecture, DDD e POO). Meu foco principal é a construção de APIs robustas e escaláveis utilizando o ecossistema **Java** e **Spring Boot**, integrados com serviços de nuvem na **AWS**. Além disso, atuo em toda a esteira de desenvolvimento, construindo interfaces e automações com o ecossistema JavaScript.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Carllin083&show_icons=true&theme=tokyonight)
+### 🚀 O que eu faço
+* ⚙️ **Backend Avançado:** Desenvolvimento de APIs RESTful seguras (JWT/Spring Security), integrações e modelagem de banco de dados (PostgreSQL).
+* ☁️ **Cloud & Infraestrutura:** Deploy e gerenciamento de serviços utilizando AWS e conteinerização com Docker.
+* 💻 **Frontend & Automação:** Construção de interfaces dinâmicas (React/Next.js) e scripts de automação de dados (Node.js).
 
-</div>
+---
 
-<div align="center" target="blank"> 
-<a href="https://instagram.com/_Carlos.mglhs" :target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-style="border-radius: 30px"></a>
-<a href = "mailto:cmp.1a.carloseduardobr19@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-style="border-radius: 30px"
-target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-magalh%C3%A3es-06677927b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "https://t.me/Carllin083">
-<img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style = "border-radius: 30px"></a>
- </div>
+### 🛠️ Minhas Tecnologias & Ferramentas
 
-<div style = "margin:30px ">
-<p align="center">
-    <h1 align = "center">MY SKILLS 👨🏻‍💻</h1>
-    <div align = "center">  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,py,js,html,css,nodejs,spring,git&theme=light " />
-    
-  </a> </div>
-</p>
-</div>
+**Linguagens & Core:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align = "center" >
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carllin083&layout=donut&theme=tokyonight)](https://github.com/Carllin083/Carllin083)
-
-<h2 style = "border-bottom: none">DATA BASE 📊</h2>
-
-<div style="margin-left: 55px">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=light" />
-  </a>
-</div>
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A8FF&height=180&section=footer"/>
+**Backend & Frameworks:**
+![Spring Boot](
