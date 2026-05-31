@@ -43,10 +43,8 @@ Estive estudando intensamente nos últimos dias e, ao praticar na construção d
 
 ### 📈 Minhas Estatísticas
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Carllin083&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Carlos" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carllin083&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais utilizadas" />
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Carllin083&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Carllin083)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carllin083&layout=compact&langs_count=7&theme=radical)](https://github.com/Carllin083)
 
 ---
 
